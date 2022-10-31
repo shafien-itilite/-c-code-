@@ -13,7 +13,7 @@ int main()
 }
 
 # include <stdio.h>
-# inlcude <lib.h>
+# inlcude <stdlib.h>
 int main(
 {
     double a, b, product;
